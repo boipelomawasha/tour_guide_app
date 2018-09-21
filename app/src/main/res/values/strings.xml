@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Tour Guide App</string>
+    <string name="app_name">Thaba Nchu Tour Guide App</string>
+
+    <!-- Item List strings -->
+    <string name="address">Address</string>
+    <string name="highlights">Highlights</string>
+    <string name="details">Details</string>
+
+    <!-- Main menu items -->
+    <string name="location">Location</string>
+    <string name="historical_site">Chief Moroka\’s grave</string>
+    <string name="restaurant">Quinto\'s Pizza</string>
+    <string name="easter_festival">Thaba Nchu Easter Festival</string>
+    <string name="we_back_home">We back home</string>
+    <string name="pictures">Pictures</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

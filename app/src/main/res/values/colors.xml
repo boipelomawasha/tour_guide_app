@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#8470ff</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">#ffffe0</color>
+
+    <!-- Background color for the comedy genre -->
+    <color name="location">#FD8E09</color>
+
+    <!-- Background color for the drama genre -->
+    <color name="historical_site">#379237</color>
+
+    <!-- Background color for the horror genre -->
+    <color name="restaurant">#8800A0</color>
+
+    <!-- Background color for the thriller genre -->
+    <color name="easter_festival">#16AFCA</color>
+
+    <!-- Background color for the search -->
+    <color name="we_back_home">#f0e68c</color>
+
+    <!-- Background color for the search -->
+    <color name="pictures">#4286f4</color>
+
 </resources>
