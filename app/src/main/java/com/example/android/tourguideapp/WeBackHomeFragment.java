@@ -30,12 +30,16 @@ public class WeBackHomeFragment extends Fragment {
 
         final ArrayList<Tour> tours = new ArrayList<>();
 
+        // Add the details for the tour
         tours.add(new Tour(R.drawable.we_back_home, R.string.we_back_home_address, R.string.we_back_home_highlights, R.string.we_back_home_details));
 
+        // Create an adaptor and set the background
         TourAdapter adapter = new TourAdapter(getActivity(), tours, R.color.app_background);
 
+        // Find the {@link ListView} object
         ListView listView = rootView.findViewById(R.id.tlList);
 
+        // Make the {@link ListView} use the {@link TourAdapter} we created above
         listView.setAdapter(adapter);
 
         return rootView;

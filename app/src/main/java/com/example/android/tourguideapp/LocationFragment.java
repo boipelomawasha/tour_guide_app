@@ -30,12 +30,16 @@ public class LocationFragment extends Fragment {
 
         final ArrayList<Tour> tours = new ArrayList<>();
 
+        // Add the details for the tour
         tours.add(new Tour(R.drawable.thaba_nchu, R.string.location_address, R.string.location_highlights, R.string.location_details));
 
+        // Create an adaptor and set the background
         TourAdapter adapter = new TourAdapter(getActivity(), tours, R.color.app_background);
 
+        // Find the {@link ListView} object
         ListView listView = rootView.findViewById(R.id.tlList);
 
+        // Make the {@link ListView} use the {@link TourAdapter} we created above
         listView.setAdapter(adapter);
 
         return rootView;

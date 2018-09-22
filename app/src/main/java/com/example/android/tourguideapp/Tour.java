@@ -2,7 +2,7 @@ package com.example.android.tourguideapp;
 
 public class Tour {
 
-    /** Image resource ID for the word */
+    /** Image resource ID for the tour */
     private int mImageResourceId;
 
     /** String resource ID for the Address */
