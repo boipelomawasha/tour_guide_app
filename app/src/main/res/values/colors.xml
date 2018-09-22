@@ -9,22 +9,4 @@
     <!-- Background color for app -->
     <color name="app_background">#ffffe0</color>
 
-    <!-- Background color for the comedy genre -->
-    <color name="location">#FD8E09</color>
-
-    <!-- Background color for the drama genre -->
-    <color name="historical_site">#379237</color>
-
-    <!-- Background color for the horror genre -->
-    <color name="restaurant">#8800A0</color>
-
-    <!-- Background color for the thriller genre -->
-    <color name="easter_festival">#16AFCA</color>
-
-    <!-- Background color for the search -->
-    <color name="we_back_home">#f0e68c</color>
-
-    <!-- Background color for the search -->
-    <color name="pictures">#4286f4</color>
-
 </resources>

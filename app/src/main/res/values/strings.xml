@@ -2,18 +2,67 @@
     <string name="app_name">Thaba Nchu Tour Guide App</string>
 
     <!-- Item List strings -->
+    <string name="picture">Picture</string>
     <string name="address">Address</string>
     <string name="highlights">Highlights</string>
     <string name="details">Details</string>
 
     <!-- Main menu items -->
     <string name="location">Location</string>
-    <string name="historical_site">Chief Moroka\’s grave</string>
+    <string name="historical_site">Cultural Village</string>
     <string name="restaurant">Quinto\'s Pizza</string>
-    <string name="easter_festival">Thaba Nchu Easter Festival</string>
     <string name="we_back_home">We back home</string>
-    <string name="pictures">Pictures</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Location strings -->
+    <string name="location_address">
+        Mangaung, Free State
+    </string>
+    <string name="location_highlights">
+        <li>Mostly populated by Barolong</li>\n
+        <li>Established in 1833</li>\n
+        <li>It was a trading center</li>
+    </string>
+    <string name="location_details">
+        The Batswana people of Thaba Nchu accepted the Voortrekkers as allies and the alliance was successful in driving Mzilikazi away. It was under the rule of Rre Lucas Mangope until 1994
+    </string>
+
+    <!-- Historical Site strings -->
+    <string name="historical_site_address">
+        Thaba Nchu, Mangaung, Free State
+    </string>
+    <string name="historical_site_highlights">
+        <li>The Barolong Ba Seleka cultural village in Thaba Nchu remains a white elephant</li>\n
+        <li>Community center to handle local issues</li>\n
+        <li>Traditional authority of Thaba Nchu</li>
+    </string>
+    <string name="historical_site_details">
+        The cultural village is a Setswana themed cultural establishment aimed at providing public information about the tradition, norms and cultures of the Barolong and Batswana clan. The village consists of a museum, arts and craft market, traditional restaurant, an amphitheatre, homestay accommodation and guest houses for visitors.
+    </string>
+
+    <!-- Restaurant strings -->
+    <string name="restaurant_address">
+        1366 Rapulana, Selosesha, Thaba Nchu 9381
+    </string>
+    <string name="restaurant_highlights">
+        <li>One of the first pizza places in Thaba Nchu</li>\n
+        <li>Has a delivery service</li>\n
+        <li>Very active on social media</li>
+    </string>
+    <string name="restaurant_details">
+        We sell good fresh pizza here,very tasty and breath taking,order yours now because Quintos taste never disappoints.
+    </string>
+
+    <!-- We back home strings -->
+    <string name="we_back_home_address">
+        Mmabana Stadium - Thaba Nchu
+    </string>
+    <string name="we_back_home_highlights">
+        <li>Organized by the same crew that organizes the Easter Fest</li>\n
+        <li>Has never been cancelled since inception</li>\n
+        <li>Audience numbers have been increasing every year</li>
+    </string>
+    <string name="we_back_home_details">
+        This is an annual event that has been around for over 10 years. It has managed to attract big artists and has established itself as a part of Sthiba culture
+    </string>
+
 </resources>
